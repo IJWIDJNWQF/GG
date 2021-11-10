@@ -3,7 +3,3 @@ local Window = Library.CreateLib("TITLE", "DarkTheme")
 
 local Tab = Window:NewTab("Main Fly")
 local Section = Tab:NewSection("Main Fly")
-
-Section:NewButton("Fly", "Fly Info", function()
-    https://pastebin.com/raw/7rXZ9VNc
-end)
